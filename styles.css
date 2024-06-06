@@ -1,0 +1,64 @@
+* {
+    background-color: antiquewhite;
+}
+
+h1{
+    font-size: 80px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',  sans-serif;
+}
+
+.images{
+    
+    height: 450px;
+    width: 1450px;
+    box-sizing: border-box;
+}
+
+.image1,
+.image2,
+.image3{
+    height: 450px;
+    display: inline;
+    width: 450px;
+}
+.image1{
+    margin-right: 50px;
+}
+
+.image2{
+    margin-right: 40px;
+}
+
+.links{
+    margin-top: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',  sans-serif;
+    
+    width: 1450px;
+    height:200px;
+}
+
+.link1,
+.link2,
+.link3{
+    
+    font-size: 30px;
+    color: inherit; 
+    text-decoration: none;
+}
+    
+
+.link1{
+    margin-left: 90px;
+}
+
+.link2{
+    margin-left: 210px;
+}
+
+.link3{
+    margin-left: 230px;
+}
+
